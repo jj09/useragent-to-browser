@@ -1,7 +1,7 @@
 {
   "name": "useragent2browser",
   "version": "1.0.0",
-  "description": "Parse user agents from file",
+  "description": "Mapping userAgent strings to browser name/version using input file with userAgent strings",
   "main": "u2b.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
