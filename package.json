@@ -1,0 +1,15 @@
+{
+  "name": "useragent2browser",
+  "version": "1.0.0",
+  "description": "Parse user agents from file",
+  "main": "u2b.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jjed",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.1.0",
+    "useragent": "^2.1.7"
+  }
+}
