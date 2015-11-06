@@ -3,9 +3,9 @@
 const filename = process.argv[2];
 
 if (!filename) {
-	console.log('Usage:\t\tnode app.js [filename]');
+	console.log('Usage:\t\tnode u2b.js [filename]');
 	console.log('');
-	console.log('Example:\tnode app.js data.txt');
+	console.log('Example:\tnode u2b.js data.txt');
 	console.log('');
 	console.log('Options:');
 	console.log(' --group\tgroups unique browsers by name and display count');
