@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jjed",
+  "author": "jj09",
   "license": "MIT",
   "dependencies": {
     "readline": "^1.1.0",
